@@ -45,7 +45,7 @@ let cantidadPedidoEmpanada = 0;
 // calculo costo para un pedido de pizza.
 let carrito = []
 
-function RealizarPedido() {
+function realizarPedido() {
     let nombre = prompt("Bienvenido a La Fortinental! ingresá tu nombre por favor");
     console.log("el nombre del cliente es " + nombre);
 

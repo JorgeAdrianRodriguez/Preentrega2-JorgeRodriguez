@@ -82,7 +82,7 @@ function realizarPedido() {
         alert ("La opción ingresada es incorrecta");
     }
 }
-RealizarPedido()
+realizarPedido()
 
 let domicilio = prompt ("Ingresa tu domicilio por Favor");
 console.log(domicilio);
